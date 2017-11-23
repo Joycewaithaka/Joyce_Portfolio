@@ -1,19 +1,19 @@
 /*
 Awesome Template
-http://www.templatemo.com/preview/templatemo_450_awesome
+http://www.templatemo.com/preview/templatemo_450_awesome 
 */
 
 body
 	{
- 		background: #303030;
- 		color: #ffffff;
+ 		background: #662D91  ;
+ 		color: #F7941E;
 		font-family: 'Open Sans', sans-serif;
 		font-weight: 300;
 		overflow-x: hidden; /* prevent horizontal scrollbar from appearing */
 	}
 	
 a {
-	color: #47C6F8;
+	color: #F7941E;
 }
 	
 a:hover {
@@ -29,7 +29,7 @@ h2
 	}	
 h2 span
 	{
-		color: #28a7e9;
+		color: #F7941E;
 		font-weight: bold;
 	}
 /* end h2 */
